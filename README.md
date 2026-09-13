@@ -1,0 +1,1 @@
+# Pokedex-new-gerenation
